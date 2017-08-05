@@ -1,0 +1,295 @@
+.say-hello {
+	overflow: auto;
+
+	.error {color: red;}
+
+	h2 {
+		font: 400 45px/55px "bakeryregular";
+		text-transform: capitalize;
+		text-align: center;
+	}
+
+	.star-divider {
+		text-align: center;
+		margin-bottom: 60px;
+	}
+
+	h3 {
+		margin-bottom: 45px;
+		font: 600 35px/40px "GothamMedium";
+
+		span {
+			display: block;
+		}
+	}
+
+	p {
+		margin-bottom: 35px;
+		font: 400 20px/30px "GothamBook";
+
+		a {
+			text-decoration: none;
+			color: #000;
+
+			img {margin-right: 30px;}
+		}
+	}
+
+	.input {
+		display: block;
+		width: 100%;
+		padding: 9px 12px 8px;
+		margin-bottom: 12px;
+    border-radius: 85px;
+    border: 1px solid #000;
+		outline: none;
+   
+	}
+  .say-hellow-content {
+  	width: 90%;
+    margin: 0 auto 50px;
+  	overflow: auto;
+  }
+	
+	.say-box:last-child {
+		margin-top: 25px;
+    width: 35%;
+    float: left;
+	}
+
+	.say-box:first-child {
+    width: 65%;
+    float: left;
+	}
+
+	.submit {
+		width: 70%;
+		color: #f59ba1;
+		border-color: #eccf9b;
+		background: #fff;
+	}
+
+	.social {
+		padding: 35px 60px;
+		background: linear-gradient(0deg, #117aaf 0%, #19b0b7 100%);
+		overflow: auto;
+
+		h4 {
+			color: #fff;
+			font: 400 35px/45px "bakeryregular";
+
+			span {margin-left: 10px;}
+
+			img {margin-top: -16px;}
+		}
+
+		a {display: inline-block;}
+
+		.facebook-feed {
+			width: 50%;
+			float: left; 
+			display: block;
+
+			.fb-content {
+				width: 65%;
+			}
+
+			.feed-fb-img {margin: 10px 0 20px;}
+
+			p {
+				margin-bottom: 0px;
+				color: #fff;
+        font: 400 17px/25px "GothamBook"
+			}
+
+			.fb-btn {
+				border: 1px solid #f59ba1; 
+				color: #f59ba1;
+        border-color: #eccf9b;
+        text-transform: uppercase;
+        border-radius: 80px;
+        padding: 8px 14px;
+			}
+		}
+
+		.insta-feed {
+			width: 50%;
+			float: left;
+
+			.insta-content {
+				width: 48%;
+				margin: 1%;
+				float: left;
+        
+        a {
+        	max-height: 192px;
+        	display: inline-block;
+        	overflow: hidden;
+        }
+
+				img {
+					width: 100%;
+				}
+			}
+		}
+	}
+
+	.stay-loop {
+		  padding: 22px 0 50px;
+
+		  .star-divider {
+		  	margin-bottom: 40px;
+		  }
+
+		p {
+			width: 60%;
+			margin: 0 auto 30px;
+			text-align: center;
+		}
+
+		.loop {
+			width: 70%;
+      margin: 0 auto;
+			position: relative;
+		}
+
+		.input {
+			width: 80%;
+		} 
+
+		.submit {
+			width: 30%;
+			position: absolute;
+      top: 0px;
+      right: 0px;
+      color: #fff;
+      -webkit-background: linear-gradient(135deg, #eccf9b 0%, #eccf9b 24%, #f59ba1 78%, #f59ba1 100%);
+      -moz-background: linear-gradient(135deg, #eccf9b 0%, #eccf9b 24%, #f59ba1 78%, #f59ba1 100%);
+      background: linear-gradient(135deg, #eccf9b 0%, #eccf9b 24%, #f59ba1 78%, #f59ba1 100%);
+		}
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.row .say-hello {
+		.say-box {
+			width: 100%;
+		}
+
+		h3 {text-align: center;}
+	
+	p {text-align: center;}
+
+	.input {
+		width: 80%;
+		margin: 0 auto 25px;
+}
+
+.submit  {width: 70%;}
+	
+.social {
+	.facebook-feed {
+		.fb-content {
+			width: 100%;
+
+			.feed-fb-img {
+				width: 100%;
+       
+       img {width: 100%;}
+			}
+		}
+		width: 100%;
+		margin-bottom: 30px;
+
+		p {
+			text-align: left;
+		}
+	}
+
+	.insta-feed {
+		width: 100%;
+
+		.insta-content {
+			a {
+				max-height: 100%;
+			}
+		}
+	}
+}
+
+.stay-loop {
+	.loop {
+		width: 90%;
+	}
+	.input {width: 100%;}
+
+	.submit {
+		width: 40%;
+	}
+}
+}
+}
+
+@media screen and (max-width: 480px) {
+	.row .say-hello {
+
+	h3 {font: 600 30px/40px "GothamMedium";}
+
+	.star-divider {margin-bottom: 25px;}
+
+	.social {padding: 30px 10px;}
+	
+	p {text-align: center;}
+
+	.input {
+		width: 80%;
+		margin: 0 auto 25px;
+}
+
+.submit  {width: 70%;}
+	
+.social {
+	.facebook-feed {
+		.fb-content {
+			width: 100%;
+
+			.feed-fb-img {
+				width: 100%;
+       
+       img {width: 100%;}
+			}
+		}
+		width: 100%;
+		margin-bottom: 30px;
+
+		p {
+			text-align: left;
+		}
+	}
+
+	.insta-feed {
+		width: 100%;
+
+		.insta-content {
+			a {
+				max-height: 100%;
+			}
+		}
+	}
+}
+
+.stay-loop {
+	.loop {
+		width: 90%;
+	}
+	.input {width: 100%;}
+
+	.submit {
+		width: 80%;
+		position: static !important;
+	}
+
+	p {width: 90% !important;}
+}
+}
+}
