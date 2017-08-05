@@ -254,7 +254,7 @@
                     <div class="main-brands">
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/accessories.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -268,7 +268,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/apparel.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -282,7 +282,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/educational.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -296,7 +296,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/food.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -310,7 +310,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/Furniture.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -324,7 +324,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/Linen.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -338,7 +338,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/Personal-care.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -352,7 +352,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/play.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -366,7 +366,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/Services.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -380,7 +380,7 @@
                         </div>
                         <div class="col-md-15">
                             <div class="brands-wrapper">
-                                <img src="img/dum.png" class="img-responsive">
+                                <img src="img/Stationery.jpg" class="img-responsive">
                                 <a href="#">
                                 <div class="wrappe">
                                     <div class="outer-wrap">
@@ -409,6 +409,9 @@
                    <div class="cont-box">
                       <p>The Pop Up brought together some of the finest brands in children’s apparel, accessories, educational aids, toys and foods with a focus on offerings which are organic/ natural and super healthy!</p>
                    </div>
+                  </div>
+                  <div class="sponsors-box">
+                    
                   </div>
                   </div>
               </div>
